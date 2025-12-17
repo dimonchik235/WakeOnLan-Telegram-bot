@@ -78,7 +78,7 @@ Telegram bot for ESP32 that sends Wake-on-LAN packets to remotely power on serve
 
 ### 3. Configure Code
 
-Open `WakeOnLan_Bot.ino` and configure the following parameters:
+Open `WakeOnLan_Bot.cpp` and configure the following parameters:
 
 ```cpp
 // ========== CONFIGURATION ==========
