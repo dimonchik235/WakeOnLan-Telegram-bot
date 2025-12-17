@@ -1,3 +1,11 @@
+<!-- Language Selector -->
+<div align="center">
+  
+[![English](https://img.shields.io/badge/Language-English-blue)](README.md)
+[![Русский](https://img.shields.io/badge/Language-Русский-red)](README.ru.md)
+
+</div>
+
 # WakeOnLan Telegram Bot для ESP32 ⚡🤖
 
 [![Platform](https://img.shields.io/badge/Platform-ESP32-blue.svg)](https://www.espressif.com/)
